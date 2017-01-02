@@ -1,0 +1,136 @@
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\SIS.csprojResolveAssemblyReference.cache
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\SIS.csproj.GenerateResource.Cache
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Properties.Resources.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmAbout.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmCategory.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmCategoryRecord.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmChangePassword.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmStockReport.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmProductsRecord.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmProductsRecord1.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSubCategory.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSubCategoryRecord.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmInvoiceReport.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmLogin.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmLoginDetails.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmMainMenu.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmProduct.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmProductsRecord2.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmRecoveryPassword.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmRegisteredUsersDetails.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSales.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSalesReport.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSplash.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmStock.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmStockRecord1.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmRegistration.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales and Inventory System.pdb
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSalesRecord.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmStockIN.resources
+E:\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSalesRecord1.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales and Inventory System.pdb
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\SIS.csprojResolveAssemblyReference.cache
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmAbout.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmCategory.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmCategoryRecord.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmChangePassword.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSalesRecord.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmStockIN.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmStockReport.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmProductsRecord.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmProductsRecord1.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSubCategory.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSubCategoryRecord.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmInvoiceReport.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmLogin.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmLoginDetails.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmMainMenu.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmProduct.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmProductsRecord2.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmRecoveryPassword.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmRegisteredUsersDetails.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSales.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSalesRecord1.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSalesReport.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSplash.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmStock.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmStockRecord1.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmRegistration.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Properties.Resources.resources
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\SIS.csproj.GenerateResource.Cache
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+D:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales and Inventory System.pdb
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\SIS.csprojResolveAssemblyReference.cache
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmAbout.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmCategory.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmCategoryRecord.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmChangePassword.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSalesRecord.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmStockIN.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmStockReport.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmProductsRecord.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmProductsRecord1.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSubCategory.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSubCategoryRecord.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmInvoiceReport.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmLogin.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmLoginDetails.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmMainMenu.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmProduct.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmProductsRecord2.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmRecoveryPassword.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmRegisteredUsersDetails.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSales.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSalesRecord1.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSalesReport.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSplash.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmStock.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmStockRecord1.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmRegistration.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Properties.Resources.resources
+E:\Projects\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\SIS.csproj.GenerateResource.Cache
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales and Inventory System.pdb
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\SIS.csprojResolveAssemblyReference.cache
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmAbout.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmCategory.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmCategoryRecord.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmChangePassword.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSalesRecord.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmStockIN.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmStockReport.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmProductsRecord.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmProductsRecord1.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSubCategory.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSubCategoryRecord.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmInvoiceReport.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmLogin.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmLoginDetails.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmMainMenu.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmProduct.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmProductsRecord2.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmRecoveryPassword.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmRegisteredUsersDetails.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSales.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSalesRecord1.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSalesReport.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmSplash.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmStock.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmStockRecord1.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.frmRegistration.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Properties.Resources.resources
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\SIS.csproj.GenerateResource.Cache
+F:\HOCTAP\TAILIEU\C#\Sales and Inventory System (Fashion Shop)\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe
