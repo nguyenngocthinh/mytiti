@@ -1,0 +1,35 @@
+public class AFrameOnImage{
+	private boolean enablePaintRect = false;
+	
+	private int []Dimsbounds = new int [4];
+	
+	public AFrameOnImage(int xOnImage, int yOnImage, int w, int h){
+			Dimsbounds[0] = xOnImage;
+			Dimsbounds[1] = yOnImage;
+			Dimsbounds[2] = x;
+			Dimsbounds[3] = y;
+	}
+	public void VisibleRectDebug(boolean enable){
+		enablePaintRect = enable;
+	}
+	public int [] GetBounds(){
+		return Dimsbounds;
+	}
+	public void Paint(int x, int y, BufferedImage image,Graphics2D g2, int anchor, float rotation ){
+		
+		BufferedImage imageDraw = image.getSubimage(Dimsbounds[0], Dimsbounds[1], Dimsbounds[2], Dimsbounds[3]);
+		AffineTransform tx = new AffineTransform();
+		tx.rotate(rotation, imageDraw.getWidth() / 2, imageDraw.getHeight() / 2);
+		
+		AffineTransformOp = new AffineTransformOp(tx, AffineTransformOp.TYPE_BILINEAR);
+		imageDraw = op.filter(imageDraw, null);
+		
+		g2.drawImage(imageDraw, x, y, null);
+		
+		if(enablePaintRect) PaintBound(g2);
+		
+	}
+	private void PaintBound(Graphics2D){
+		
+	}
+}
