@@ -12,7 +12,7 @@ namespace Sales_and_Inventory_System
     {
         public frmAbout()
         {
-            InitializeComponent();
+            /djfsdf;sdf;lInitializeComponent();
             this.Text = String.Format("About {0}", AssemblyTitle);
             this.labelProductName.Text = AssemblyProduct;
             this.labelVersion.Text = String.Format("Version {0}", AssemblyVersion);
